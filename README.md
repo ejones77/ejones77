@@ -1,8 +1,8 @@
 ### Hey, hey! I'm Evan Jones. 👋
 
-- 🔭 I’m currently working on my first data analysis project
-- 🌱 I’m currently learning Python and SQL
-- 👯 I’m looking to collaborate on data science projects
+- 🔭 I’m currently working on leveling up in Python
+- 🌱 I’m currently learning Python, SQL, and the fundamentals of machine learning.
+- 👯 I’m looking to collaborate on the White House visitor log
 - 🤔 I’m looking for help with mastery in SQL
 - 💬 Ask me about Pandas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/)
