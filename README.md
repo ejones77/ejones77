@@ -1,10 +1,9 @@
 ### Hey, hey! I'm Evan Jones. 👋
 
-- 🔭 I’m currently working on leveling up in Python
-- 🌱 I’m currently learning Python, SQL, and the fundamentals of machine learning.
+- 🔭 I’m currently working on going back through my DataQuest projects to add them to my portfolio
+- 🌱 I’m learning about Data Engineering and ML systems.
 - 👯 I’m looking to collaborate on the White House visitor log
-- 🤔 I’m looking for help with mastery in SQL
-- 💬 Ask me about Pandas
+- 💬 Ask me about data cleaning and visualization in Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/)
 - 😄 Pronouns: He/Him
 - 📰 I was Editor-in-Chief of Michigan State's student media organization.
